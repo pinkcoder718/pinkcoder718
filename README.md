@@ -2,27 +2,49 @@
 ### Hi there, I'm [Myil!](https://pinkcoder718.github.io) 👋
 
 
-Hi, I'm Myil Vaughanan V L, a passionate self-taught frontEnd web developer from India.
+<h1>I'm a data science student!</h1>
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/pinkcoder718/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/pinkcoder718/pinkcoder718/issues)
+- 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
+- 🔭 My blogs have been published at : [Mithucricketblogs](https://t.co/7ozeBXPDab?amp=1)
+- 🌱 I’m currently learning Data Analysis, ML and R Language 😜
+- 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
+- ⚡ Fun fact: pinkcoder is my Unofficial name😁
 
-**Languages and Tools:**  
+<br />
+<details><summary>Skills</summary>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### Programming languages I know:-
+  
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app` 
---->
+### Libraries I like working with:-
+  
+![pandas](https://img.shields.io/badge/pandas-1.2.4.-green)
+![numpy](https://img.shields.io/badge/numpy-1.20.2-blue)
+![seaborn](https://img.shields.io/badge/seaborn-0.11.1-yellowgreen)
+![scikit-learn](https://img.shields.io/badge/sklearn-0.23-red)
+![plotly](https://img.shields.io/badge/plotly-4.14.3-lightgrey)
 
-<!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
+### Editors I like to use:-
+
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Looking forward to learn:-
+
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</details>
+
+<details><summary>Github stats</summary>
+  
+![Last commit](https://img.shields.io/github/last-commit/Mithun162001/Python-Notebooks?style=for-the-badge)
+![Language count](https://img.shields.io/github/languages/count/Mithun162001/Python-Notebooks?style=for-the-badge)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/pinkcoder718/github-readme-stats)*
 
@@ -32,18 +54,11 @@ Hi, I'm Myil Vaughanan V L, a passionate self-taught frontEnd web developer from
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkcoder718&show_icons=true&count_private=true&locale=en&theme=dracula&layout=compact&langs_count=7" alt="pinkcoder718" />
 </a>
 
+### 📫 Contact me at:
 
-<!--
-**pinkcoder718/pinkcoder718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://https://twitter.com/l_myil" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Pinkcoder"  /></a>
+<a href="https://https://www.linkedin.com/in/myil-vaughanan-v-l-168825205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Myil Vaughanan V L"  /></a>
+<a href="https://www.kaggle.com/myilvaughananvl" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Myil Vaughanan V L"/></a>
+<a href="mailto:myilvaughanan.v.l@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Myil Vaughanan V L"  /></a>
+</p>
