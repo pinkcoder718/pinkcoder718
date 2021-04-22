@@ -27,21 +27,9 @@ Hi, I'm Myil Vaughanan V L, a passionate self-taught frontEnd web developer from
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/pinkcoder718/github-readme-stats)*
 
 
-<a href="https://github.com/pinkcoder718/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api?username=pinkcoder718&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Myil's github stats" />
-</a>
-<a href="https://github.com/pinkcoder718/github-readme-stats">
-  <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/top-langs/?username=pinkcoder718&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/pinkcoder718/github-readme-stats">
-  <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/pin/?username=pinkcoder718&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/pinkcoder718/pinkcoder718.github.io">
-  <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/pin/?username=pinkcoder718&repo=pinkcoder718.github.io&theme=material-palenight" />
+<a href="https://github.com/pinkcoder718" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinkcoder718&count_private=true&show_icons=true&locale=en&theme=dracula" alt="pinkcoder718" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkcoder718&show_icons=true&count_private=true&locale=en&theme=dracula&layout=compact&langs_count=7" alt="pinkcoder718" />
 </a>
 
 
