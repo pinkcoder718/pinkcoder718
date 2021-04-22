@@ -6,7 +6,7 @@
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
-- 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
+- 🥅 2021 Goals: Learn Machine Learning and get an Internship in Data Analytics Field 🤞
 - ⚡ Fun fact: pinkcoder is my Unofficial name😁
 
 <br />
