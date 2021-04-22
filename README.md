@@ -1,7 +1,7 @@
 ### Hi there, I'm [Myil!](https://pinkcoder718.github.io) 👋
 
 
-<h1>I'm a data science student!</h1>
+<h1>I'm a Data Science student!</h1>
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
