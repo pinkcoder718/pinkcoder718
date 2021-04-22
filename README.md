@@ -5,7 +5,6 @@
 <h1>I'm a data science student!</h1>
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
-- 🔭 My blogs have been published at : [Mithucricketblogs](https://t.co/7ozeBXPDab?amp=1)
 - 🌱 I’m currently learning Data Analysis, ML and R Language 😜
 - 🥅 2021 Goals: Learn behind the scenes of cricket analysis using data 🤞
 - ⚡ Fun fact: pinkcoder is my Unofficial name😁
