@@ -1,4 +1,4 @@
-### Hi there, I'm [Myil!](https://pinkcoder718.github.io) 👋
+### Hi there, I'm Myil! 👋
 
 
 <h1>I'm a Data Science student!</h1>
