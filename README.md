@@ -40,11 +40,7 @@
 
 </details>
 
-<details><summary>Github stats</summary>
   
-![Last commit](https://img.shields.io/github/last-commit/Mithun162001/Python-Notebooks?style=for-the-badge)
-![Language count](https://img.shields.io/github/languages/count/Mithun162001/Python-Notebooks?style=for-the-badge)
-
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/pinkcoder718/github-readme-stats)*
 
 
