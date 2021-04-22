@@ -1,18 +1,6 @@
 ### Hi there 👋
 ### Hi there, I'm [Myil!](https://pinkcoder718.github.io) 👋
 
-<a href="https://codesandbox.io/u/pinkcoder718">
-  <img align="left" alt="Myil Vaughanan V L | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/pinkcoder718/pinkcoder718/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/Myilhazru">
-  <img align="left" alt="Myil Vaughanan V L | Twitter" width="21px" src="https://raw.githubusercontent.com/pinkcoder718/pinkcoder718/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Myil's Discord" width="21px" src="https://raw.githubusercontent.com/pinkcoder718/pinkcoder718/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
 
 Hi, I'm Myil Vaughanan V L, a passionate self-taught frontEnd web developer from India.
 
@@ -40,20 +28,20 @@ Hi, I'm Myil Vaughanan V L, a passionate self-taught frontEnd web developer from
 
 
 <a href="https://github.com/pinkcoder718/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.pinkcoder7181.vercel.app/api?username=pinkcoder718&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Myil's github stats" />
+  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api?username=pinkcoder718&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Myil's github stats" />
 </a>
 <a href="https://github.com/pinkcoder718/github-readme-stats">
   <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder7181.vercel.app/api/top-langs/?username=pinkcoder718&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/top-langs/?username=pinkcoder718&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/pinkcoder718/github-readme-stats">
   <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder7181.vercel.app/api/pin/?username=pinkcoder718&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/pin/?username=pinkcoder718&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/pinkcoder718/pinkcoder718.github.io">
   <!-- Change the `github-readme-stats.pinkcoder7181.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.pinkcoder7181.vercel.app/api/pin/?username=pinkcoder718&repo=pinkcoder718.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.pinkcoder718.vercel.app/api/pin/?username=pinkcoder718&repo=pinkcoder718.github.io&theme=material-palenight" />
 </a>
 
 
