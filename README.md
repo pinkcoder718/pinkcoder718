@@ -51,8 +51,8 @@
 ### 📫 Contact me at:
 
 <p align="left">
-<a href="https://https://twitter.com/l_myil" target="https://twitter.com/l_myil"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Pinkcoder"  /></a>
-<a href="https://https://www.linkedin.com/in/myil-vaughanan-v-l-168825205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Myil Vaughanan V L"  /></a>
+<a href="https://twitter.com/l_myil" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Pinkcoder"  /></a>
+<a href="https://www.linkedin.com/in/myil-vaughanan-v-l-168825205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Myil Vaughanan V L"  /></a>
 <a href="https://www.kaggle.com/myilvaughananvl" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Myil Vaughanan V L"/></a>
 <a href="mailto:myilvaughanan.v.l@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Myil Vaughanan V L"  /></a>
 </p>
