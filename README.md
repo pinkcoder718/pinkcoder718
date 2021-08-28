@@ -5,7 +5,7 @@
 <h1>I'm a Data Science student!</h1>
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
-- 🌱 I’m currently learning Data Analysis, ML and R Language 😜
+- 🌱 I’m currently learning Data Analysis, ML and Python Language 😜
 - 🥅 2021 Goals: Learn Machine Learning and get an Internship in Data Analytics Field 🤞
 - ⚡ Fun fact: pinkcoder is my Unofficial name😁
 
