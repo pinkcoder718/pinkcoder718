@@ -49,6 +49,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinkcoder718&count_private=true&show_icons=true&locale=en&theme=dracula" alt="pinkcoder718" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=pinkcoder718&style=flat-square" alt="pinkcoder718" />
+
 ### 📫 Contact me at:
 
 <p align="left">
