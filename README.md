@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Advanced ML and started with DL 😜
 - 🥅 2022 Goals: Learn and Practice DEEP LEARNING 🤞
 - ⚡ Fun fact: pinkcoder is what my friends call me😁
-- 🐼 <a href="pinkcoder718.github.io" target="blank">My Abstract Page</a>
+- 🐼 <a href="https://pinkcoder718.github.io/" target="blank">My Abstract Page</a>
 
 <br />
 <details><summary>Skills</summary>
