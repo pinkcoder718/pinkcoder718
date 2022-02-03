@@ -6,8 +6,8 @@
 
 - 🏫 Studying at : School of Engineering and Technology(Deemed to be University)
 - 🌱 I’m currently learning Data Analysis, ML and Python Language 😜
-- 🥅 2021 Goals: Learn Machine Learning and get an Internship in Data Analytics Field 🤞
-- ⚡ Fun fact: pinkcoder is my Unofficial name😁
+- 🥅 2022 Goals: Learn and Practice DEEP LEARNING 🤞
+- ⚡ Fun fact: pinkcoder is what my friends call me😁
 
 <br />
 <details><summary>Skills</summary>
