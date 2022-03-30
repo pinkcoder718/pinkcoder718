@@ -1,6 +1,6 @@
 ### Hi there, I'm Myil! 👋
 
-<img align="right" alt="GIF" height="300px" width="400px" src="">
+<img align="right" alt="GIF" height="300px" width="400px" src="image_processing20191213-6403-1j99nlm.gif">
 
 <h1>I'm a Data Science student!</h1>
 
