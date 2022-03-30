@@ -1,6 +1,6 @@
 ### Hi there, I'm Myil! 👋
 
-<img align="right" alt="GIF" height="300px" width="400px" src="https://yyb7613mjr31k8vxr4692ftk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/d6aa5176-statistics-for-data-science-courses.gif"/>
+<img align="right" alt="GIF" height="300px" width="400px" src="">
 
 <h1>I'm a Data Science student!</h1>
 
