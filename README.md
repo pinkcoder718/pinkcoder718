@@ -4,7 +4,8 @@
 
 <h1>I'm a Data Science student!</h1>
 
-- 🏫 Studying at : School of Engineering and Technology(Deemed to be University).
+- 🥇 Gold medalist - University Rank 1 (2019-23 Batch)
+- 🏫 Graduated from Jain University with B.Tech (Honors) in Data Science
 - 🌱 I’m currently learning Advanced ML and started with DL 😜
 - 🥅 2024 Goals: Learn and Practice DEEP LEARNING 🤞
 - ⚡ Fun fact: pinkcoder is what my friends call me😁
