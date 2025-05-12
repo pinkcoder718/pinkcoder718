@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="300px" width="400px" src="image_processing20191213-6403-1j99nlm.gif">
 
-<h1>I'm a Data Science student!</h1>
+<h1>I'm a Data Scientist!</h1>
 
 - 🥇 Gold medalist - University Rank 1 (2019-23 Batch)
 - 🏫 Graduated from Jain University with B.Tech (Honors) in Data Science
